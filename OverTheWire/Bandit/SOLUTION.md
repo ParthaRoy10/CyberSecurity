@@ -91,10 +91,32 @@ Here in the home directory we can find the folder named - . But if we try to rea
 
 To read this type of files we can use `./` notation before the file name .
 
-###command:
+### command:
 
 `cat ./-`
 
 ![[Bandit1](screenshots/Level2.png)](screenshots/Level2.png)
 
 Flag=263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+## Level 2:
+
+### Level Goal
+
+The password for the next level is stored in a file called –spaces in this filename– located in the home directory
+
+### Commands you may need to solve this level
+
+`ls` , `cd` , `cat` , `file` , `du` , `find`
+
+### Solution:
+	
+Here the file name has some spaces and - before starting the file name :
+
+To read This type of file we can use `./` notation with `\` charcter that evaluates to escape character .
+
+### command	
+
+`cat ./--spaces\ in\ this\ filename--`
+
+![[Bandit1](screenshots/Level3.png)](screenshots/Level3.png)
