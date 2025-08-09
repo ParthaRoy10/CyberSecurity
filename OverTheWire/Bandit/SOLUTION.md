@@ -88,7 +88,6 @@ Commands you may need to solve this level
 ### Solution:
 
 Here in the home directory we can find the folder named - . But if we try to read using `cat -` it gives error .
-
 To read this type of files we can use `./` notation before the file name .
 
 ###command:
