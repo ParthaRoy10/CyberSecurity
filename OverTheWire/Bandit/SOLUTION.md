@@ -52,5 +52,5 @@ Command:
 
 When Prompted provide the password as the password is also bandit0
 
-![My Screenshot](Level0.png)
+![My Screenshot](Level0.png)(Level0.png)
 				
