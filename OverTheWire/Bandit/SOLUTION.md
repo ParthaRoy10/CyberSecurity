@@ -97,9 +97,8 @@ To read this type of files we can use `./` notation before the file name .
 
 ![[Bandit1](screenshots/Level2.png)](screenshots/Level2.png)
 
-Flag=263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
-## Level 2:
+## Level 3:
 
 ### Level Goal
 
