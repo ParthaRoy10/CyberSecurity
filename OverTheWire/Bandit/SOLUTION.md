@@ -54,7 +54,7 @@ When Prompted provide the password as the password is also bandit0
 
 ![[My Screenshot](screenshots/Level0.png)](screenshots/Level0.png)
 
-## Level :
+## Level 1:
 
 ### Level Goal
 
@@ -71,6 +71,6 @@ In bandit0's home directory there is a readme file
 
 When we read the file we found the pass for `bandit1` is stored in plain text
 
-![[Bandit1(screenshots/Level1.png)](screenshots/Level0.png
+![[Bandit1(screenshots/Level1.png)](screenshots/Level0.png)
 
 Now we can login as `bandit1`
