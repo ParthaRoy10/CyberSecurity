@@ -74,3 +74,27 @@ When we read the file we found the pass for `bandit1` is stored in plain text
 ![[Bandit1](screenshots/Level1.png)](screenshots/Level1.png)
 
 Now we can login as `bandit1`
+
+## Level 2:
+
+### Level Goal
+
+The password for the next level is stored in a file called - located in the home directory
+
+Commands you may need to solve this level
+
+`ls` , `cd` , `cat` , `file` , `du` , `find`
+
+### Solution:
+
+Here in the home directory we can find the folder named - . But if we try to read using `cat -` it gives error .
+
+To read this type of files we can use `./` notation before the file name .
+
+###command:
+
+`cat ./-`
+
+![[Bandit1](screenshots/Level2.png)](screenshots/Level2.png)
+
+Flag=263JGJPfgU6LtdEvgfWU1XP5yac29mFx
