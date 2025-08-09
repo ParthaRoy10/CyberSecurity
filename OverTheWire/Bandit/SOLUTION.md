@@ -48,7 +48,9 @@ Command Syntax:
 				
 Command:
 
-`ssh bandit0@bandit.labs.overthewire.org 2220`
+`ssh bandit0@bandit.labs.overthewire.org -p 2220`
 
+When Prompted provide the password as the password is also bandit0
 
+![My Screenshot](Level0.png)
 				
