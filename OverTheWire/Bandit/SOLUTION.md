@@ -1,6 +1,6 @@
-###Natas WarGame
+### Natas WarGame
 
-	##Bandit Description
+	## Bandit Description
 
 		The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames. If you notice something essential is missing or have ideas for new levels, please let us know!
 		Note for beginners
@@ -9,7 +9,7 @@
 
 		You will encounter many situations in which you have no idea what you are supposed to do. Don’t panic! Don’t give up! The purpose of this game is for you to learn the basics. Part of learning the basics, is reading a lot of new information. If you’ve never used the command line before, a good first read is this introduction to user commands.
 
-		#There are several things you can try when you are unsure how to continue:
+		# There are several things you can try when you are unsure how to continue:
 
 			First, if you know a command, but don’t know how to use it, try the manual (man page) by entering man <command>. For example, man ls to learn about the “ls” command. The “man” command also has a manual, try it! When using man, press q to quit (you can also use / and n and N to search).
 			Second, if there is no man page, the command might be a shell built-in. In that case use the “help <X>” command. E.g. help cd
@@ -20,9 +20,9 @@
 
 	Note for VMs: You may fail to connect to overthewire.org via SSH with a “broken pipe error” when the network adapter for the VM is configured to use NAT mode. Adding the setting IPQoS throughput to /etc/ssh/ssh_config should resolve the issue. If this does not solve your issue, the only option then is to change the adapter to Bridged mode.
 
-	##Level 0:
+	## Level 0:
 	
-		#Level Goal
+		# Level Goal
 
 			The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 			Commands you may need to solve this level
@@ -33,7 +33,7 @@
 			Secure Shell (SSH) on Wikipedia
 			How to use SSH on wikiHow
 		
-		#Solution:
+		# Solution:
 			
 			It's just about to connect via ssh.
 			
