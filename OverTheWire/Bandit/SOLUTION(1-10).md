@@ -133,7 +133,8 @@ The password for the next level is stored in the only human-readable file in the
 
 We can use here file command that list us the types of the files .
 
-```file ./-*
+```
+file ./-*
 ./-file00: data
 ./-file01: data
 ./-file02: data
@@ -143,7 +144,8 @@ We can use here file command that list us the types of the files .
 ./-file06: data
 ./-file07: ASCII text
 ./-file08: data
-./-file09: data```
+./-file09: data
+```
 
 Here we can see only `-file07` has ASCII text data that is human readable.
 
